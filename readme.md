@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=2a9ac6&height=200&section=header&text=tkfkadlsi&fontSize=80&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ff6600&height=200&section=header&text=tkfkadlsi&fontSize=80&animation=fadeIn&fontColor=DDDDDD)
 
 ### * 겜마고 4기생 *
 ### * 리듬게임 4키만 할 줄 아는 리붕이 *
